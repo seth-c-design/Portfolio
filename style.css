@@ -243,12 +243,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-.advertising-bg {
-    background-image: url('images/advertising.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+
 
 .experiments1-bg {
     background-image: url('images/experiments1.jpg');
